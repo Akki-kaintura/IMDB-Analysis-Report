@@ -29,6 +29,7 @@ Western, Horror, and Mystery genres are the least popular and have lower income 
 
 Duration-wise Analysis:
 For a duration of 1.5 hours, Drama, Crime, and Comedy are the best-performing genres.
+Movies with duration of 1.5hrs are most scoring as well as the most income generating at the same time.
 For a duration of 2 hours, Drama, Action, and Biography are the top genres.
 For a duration of 2.5 hours, Action, Drama, and Crime are the most successful genres.
 Biopic, Mystery, and Action in the 1.5-hour category and Western, Horror, and Comedy in the 2 and 2.5-hour categories are less successful.
